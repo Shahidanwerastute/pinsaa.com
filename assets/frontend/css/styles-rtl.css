@@ -1,0 +1,118 @@
+.Home-Screen-Bg{
+    background-position: left !important;
+    background-image: url("../../frontend/images/yellow_bg_rtl.png") !important;
+}
+.pinsaa-slider {
+    margin-right: auto !important;
+    margin-left: 0 !important;
+}
+ul.TopRightNav {
+    text-align: left !important;
+}
+.form-control{
+    direction: rtl !important;
+}
+ul.TopRightNav li {
+    padding-right: 30px;
+    padding-left: unset;
+}
+.custmor_name li{
+    padding-right: 0px!important;
+    padding-left: unset !important;
+
+}
+.jq-toast-single {
+    text-align: right !important;
+    font-size: 14px;
+    font-weight: bold;
+}
+.close-jq-toast-single {
+    left: 7px !important;
+    right: auto;
+}
+ul.WelcomeMsg {
+    text-align: right !important;
+}
+.ar-reverse-img{
+    transform: scaleX(-1);
+}
+.progress-bar-status {
+    margin-left: unset !important;
+    margin-right: 15px !important;
+}
+.map_search_div{
+    right: unset !important;
+    left: 0 !important;
+}
+[type=file] + label {
+    background-position: 5% 50%;
+}
+.second-step {
+    padding-right: unset !important;
+    padding-left: 15px !important;
+}
+.map_address_info{
+    text-align: right !important;
+}
+/* ----------------cros but---------------- */
+
+.cros_button{
+    position: absolute!important;
+    left: 15px!important;
+    top: 8px;
+    right: auto;
+}
+.NavWelcomeMsg li {
+    padding-right: 0px !important;
+}
+
+/***********************************************************************************************************************/
+/*                                                  Media CSS                                                          */
+/***********************************************************************************************************************/
+@media screen and (max-width: 1440px) {
+
+}
+@media screen and (max-width: 1366px) {
+
+}
+@media screen and (max-width: 1280px) {
+
+}
+@media screen and (max-width: 1199px) {
+
+}
+@media screen and (max-width: 1080px) {
+}
+@media screen and (max-width: 991px) {
+
+
+}
+@media only screen and (device-width: 768px) {
+
+}
+@media screen and (max-width: 767px) {
+    ul.TopRightNav li {
+        padding-right: 10px;
+        padding-left: unset;
+    }
+}
+@media screen and (max-width: 575px) {
+    .modal-dialog {
+        max-width: 100%;
+    }
+}
+@media screen and (max-width: 480px) {
+
+}
+@media screen and (max-width: 460px) {
+
+}
+@media screen and (max-width: 380px) {
+
+}
+@media screen and (max-width: 360px) {
+    ul.TopRightNav li {
+        padding-right: 10px;
+        padding-left: unset;
+    }
+}
